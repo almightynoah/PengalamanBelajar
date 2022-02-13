@@ -30,3 +30,5 @@ Belajar kelas memulai Pemrograman dengan Java. 9Proses 100%)
   * Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
   
   * Mengerjakan ujian akhir untuk menilai kemahiran diri.
+
+  * Selesai
